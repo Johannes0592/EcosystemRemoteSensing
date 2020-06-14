@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 16 10:18:42 2020
-
-@author: Johannes
-"""
 
 import os
 from rasterio.merge import merge
